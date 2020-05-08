@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Click</string>
+    <string name="disabled">Disabled</string>
+    <string name="enabled">Enabled</string>
+    <string name="display_what_users_enter">Display what users enter</string>
+    <string name="display">Display</string>
+
+</resources>
